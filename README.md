@@ -53,24 +53,10 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mubashirjabbar/mubashirjabbar/output/github-contribution-grid-snake.svg" />
-</p>
-
-<details>
-<summary>📦 How to enable this snake?</summary>
-
-Go to https://github.com/Platane/snk and follow setup for GitHub Actions. Or ask me and I’ll guide you step by step.
-</details>
-
----
-
 ### ☕ Support Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/YOURUSERNAME">
+  <a href="https://www.buymeacoffee.com/mubashirjjabbar">
     <img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
   </a>
 </p>
