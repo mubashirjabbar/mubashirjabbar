@@ -1,8 +1,9 @@
 <h1 align="center">👋 Hey there, I'm Mubashir!</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=React+Native+%7C+MERN+Stack+Developer;6%2B+Years+Experience+Building+Apps;Clean+Code+%E2%9C%85+Performance+%E2%9A%A1+UX+Driven+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=600&lines=React+Native+%7C+MERN+Stack+Developer;6%2B+Years+Experience+Building+Apps;Clean+Code+%E2%9C%85+Performance+%E2%9A%A1+UX+Driven+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
 
 ---
 
